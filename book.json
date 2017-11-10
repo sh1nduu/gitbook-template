@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "mermaid-gb3",
+    "uml",
+    "-sharing",
+    "hide-published-with",
+    "collapsible-menu",
+    "collapsible-chapters"
+  ],
+  "pluginsConfig": {
+    "format": "svg"
+  }
+
+}
